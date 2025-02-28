@@ -64,7 +64,16 @@ Technical Term - "Leverage AI-driven anomaly detection", Plain Language Equivale
 Technical Term - "Execute a system vulnerability assessment", Plain Language Equivalent - "Check the system for security weaknesses", "Check" is more approachable than "execute," and "security weaknesses" is more relatable than "vulnerability assessment."
 
 ## 7. How can using examples and visuals help in explaining complex concepts more clearly?
+Using examples and visuals makes technical content more accessible by breaking down abstract ideas into concrete, relatable, and memorable information. Here’s how they help:
+It makes abstract concepts tangible.
+It improves retention & engagement.
+It simplifies step-by-step processes.
+It appeals to different learning styles.
+It reduces cognitive load.
 ## 8. What types of visuals (e.g., diagrams, charts) are most effective for different kinds of technical information?
+Choosing the right type of visual depends on the complexity of the concept and the audience. Here’s a breakdown of which visuals work best for different kinds of technical information:
+Diagrams – Best for system architecture & workflows.
+Flowcharts – Best for step-by-step processes & decision trees.
 ## 9. How do headings and subheadings improve the readability and organization of technical documents?
 ## 10. What are some best practices for creating effective headings and subheadings?
 ## 11. What should be included in the introduction of a Readme to immediately inform users about what the product does?
