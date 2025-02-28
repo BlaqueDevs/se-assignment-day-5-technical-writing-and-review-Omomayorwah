@@ -74,7 +74,19 @@ It reduces cognitive load.
 Choosing the right type of visual depends on the complexity of the concept and the audience. Here’s a breakdown of which visuals work best for different kinds of technical information:
 Diagrams – Best for system architecture & workflows.
 Flowcharts – Best for step-by-step processes & decision trees.
+Infographics – Best for summarizing key insights & statistics.
+Charts & Graphs – Best for data-driven insights.
+Side-by-Side Comparisons – Best for differentiating concepts.
+
 ## 9. How do headings and subheadings improve the readability and organization of technical documents?
+Headings and subheadings enhance the readability and organization of technical documents by providing a clear visual hierarchy, allowing readers to quickly scan and navigate through complex information, identify key topics, and understand the logical flow of content within a document, effectively breaking down large sections into manageable chunks. 
+
 ## 10. What are some best practices for creating effective headings and subheadings?
+To ensure technical documents are clear, well-structured, and easy to navigate, follow these best practices when writing headings and subheadings:
+Keep Headings Clear and Concise.
+Use a Logical Hierarchy (H1 → H2 → H3 → H4.
+Use Descriptive, Not Generic, Headings.
+Make Headings Scannable.
+Be Consistent in Formatting & Style.
 ## 11. What should be included in the introduction of a Readme to immediately inform users about what the product does?
 ## 12. How can you succinctly convey the purpose and key features of a product?
